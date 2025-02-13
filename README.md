@@ -70,4 +70,7 @@ This project successfully implemented an ETL pipeline to integrate structured (e
 - Kaggle Dataset: [Provide dataset link]
 - PostgreSQL Documentation: [https://www.postgresql.org/docs/]
 - Power BI Guide: [https://learn.microsoft.com/en-us/power-bi/]
+- 
+- Developed by Beyene Ayelign........DBU/039/14 E.C
+- 
 
