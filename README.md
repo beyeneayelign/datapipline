@@ -29,7 +29,9 @@ This project focuses on building an end-to-end ETL (Extract, Transform, Load) pi
 ![alt text](<Screenshot (4).png>)
 ![alt text](<Screenshot (5).png>)
 ![alt text](<Screenshot (6).png>)
+![Screenshot (7)](https://github.com/user-attachments/assets/b1145cfd-3ebc-4d19-acce-de24a8105606)
 ![Uploading Screenshot (7).png…]()
+
 
 
 ### Step 1: Data Extraction
